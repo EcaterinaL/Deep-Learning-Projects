@@ -1,4 +1,4 @@
-##Problem Definition
+<b>Problem Definition</b>
 **The context:** Why is this problem important to solve?
 
 > Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected mosquitoes. It remains a major public health issue, particularly in tropical and subtropical regions. Rapid and accurate diagnosis is crucial for effective treatment and management of malaria. Traditional diagnostic methods, such as microscopic examination of blood smears, are labor-intensive and require significant expertise. By leveraging deep learning, we can automate the detection process, potentially reducing the diagnostic workload on healthcare professionals and improving the accuracy and speed of malaria diagnosis.
@@ -23,10 +23,13 @@
 - Testing: Evaluate the model on a test dataset to determine its accuracy and overall robustness.
 
 > In summary, this project addresses a critical need for automated, accurate, and efficient malaria diagnosis. Using deep learning techniques, the goal is to build a model that can reliably distinguish between parasitized and uninfected cells, thereby supporting healthcare professionals in their diagnostic efforts and contributing to the overall goal of reducing the burden of malaria worldwide. The project will involve data preparation, various model development, training, validation, testing and deciding the best solution.
-##Data Description
+
+
+<b>Data Description</b>
 
 There are a total of 24,958 train and 2,600 test images (colored) that we have taken from microscopic images. These images are of the following categories:
 
 
 **Parasitized:** The parasitized cells contain the Plasmodium parasite which causes malaria
+
 **Uninfected:** The uninfected cells are free of the Plasmodium parasites
